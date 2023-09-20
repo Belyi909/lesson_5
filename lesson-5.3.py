@@ -1,4 +1,5 @@
 # coding=windows-1251
+# 5 урок 3 задача
 print("Минимальная сумма инвестиций")
 minimum = int(input())
 print("Средства Ивана")
